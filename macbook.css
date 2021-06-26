@@ -1,0 +1,106 @@
+body
+{
+    padding-top: 125px;
+    padding-left: 125px;
+}
+.box
+{
+    background-color: #ffd8bf;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid #a87961;
+}
+.base
+{
+    background-color: #ffd8bf;
+    margin: 150 px;
+    border: 150px #ffd8bf;
+    border-radius: 10px;
+    padding: 50px;
+    position: absolute;
+    font-family: sans-serif;
+}
+/* #square {
+    width: 45px;
+    height: 45px;
+    font-size: 0.9em;
+} */
+h1
+{
+    text-align: center;
+}
+.keys1
+{
+    color: white;
+    border-radius: 10px;
+ 
+}
+#delete
+{
+    font-size: 0.7em;
+    width: 70px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+button
+{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 75px;
+    
+}
+#top-arrow
+{
+    margin-left: 32px;
+}
+.cpace
+{
+    width: 260px;
+    height: 70px;
+}
+.arrows{
+    position:relative;
+}
+.f-key_arrow{
+    align-items: center;
+}
+.keys6{
+    display: flex;
+}
+.arrow-wrapper {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    position: relative;
+    float: right;
+    gap: 2px;
+    font-size: 0.7px;
+    height: 15px;
+}
+.f-key_arrow1 {
+    display:flex;
+    justify-content:center;
+    /* align-items: center; */
+}
+#fkey
+{
+    height: 20px;
+}
+.keys2
+{
+    height: 10px;
+}
+#square
+{
+    height: 35px;
+}
+#right
+{
+    position: relative;
+}
+.bwidth
+{
+    height: 25px;
+}
